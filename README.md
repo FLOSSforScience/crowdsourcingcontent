@@ -1,6 +1,6 @@
-Welcome, to the crowd sourcing content of FLOSS for Science. 
+Welcome, to the crowd sourcing content of [FLOSS for Science](https://flossforscience.com). 
 
-#Contributing
+# Contributing
 
 If you are interested in contributing to our podcast please create an issue
 and
